@@ -10,3 +10,4 @@ f. Fés un commit i push per a pujar els canvis al repositori remot de GitHub.
 
 Afegeixo una petita modificacio en el contingut, doncs vull veure com es detecten el canvis. En local
 He guardat també una foto al directori.
+... en aquest fitxers no hi ha les modificacions de la branca 1 ---
