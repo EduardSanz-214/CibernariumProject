@@ -1,4 +1,4 @@
-1. Crea el teu primer repositori Git (línia de comandes):
+#1. Crea el teu primer repositori Git (línia de comandes):#
 a. Crea un nou repositori al teu GitHub.
 b. Crea una nova carpeta al teu PC. (copia_proyecto_git).
 c. Clona el repositori a aquesta carpeta del teu ordinador (git clone “url/to/repository”).
@@ -10,3 +10,4 @@ f. Fés un commit i push per a pujar els canvis al repositori remot de GitHub.
 
 Afegeixo una petita modificacio en el contingut, doncs vull veure com es detecten el canvis. En local
 He guardat també una foto al directori.
+ara faig una modificacio, estic en la branca fixa-bug i poso la linia 1 entre ##
