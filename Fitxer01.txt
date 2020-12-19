@@ -10,9 +10,7 @@ f. Fés un commit i push per a pujar els canvis al repositori remot de GitHub.
 
 Afegeixo una petita modificacio en el contingut, doncs vull veure com es detecten el canvis. En local
 He guardat també una foto al directori.
-<<<<<<< HEAD
-... en aquest fitxers no hi ha les modificacions de la branca 1 ---
-=======
+
 ara faig una modificacio, estic en la branca fixa-bug i poso la linia 1 entre ##
 ho modifico per la branch1... no acabo d'entendre que fa
->>>>>>> branch1
+
