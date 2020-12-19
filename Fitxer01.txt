@@ -7,3 +7,6 @@ d. Crea un fitxer de text (.txt) en aquesta carpeta.
 e. Afegeix el fitxer a un commit (git add nom_fitxer.txt)
 	Exemple: git add fitxer.txt
 f. Fés un commit i push per a pujar els canvis al repositori remot de GitHub.
+
+Afegeixo una petita modificacio en el contingut, doncs vull veure com es detecten el canvis. En local
+He guardat també una foto al directori.
